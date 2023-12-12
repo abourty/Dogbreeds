@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617465838042",
+    "project_id": "login-register-3cfa0",
+    "storage_bucket": "login-register-3cfa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617465838042:android:d74b05263f225c6aeee8e3",
+        "android_client_info": {
+          "package_name": "com.abir.breeds3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9tnRZfspbFMh4lhlPeyQ3F_GvW2WQhYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
